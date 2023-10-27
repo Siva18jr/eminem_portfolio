@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&family=Lato&family=Open+Sans:wght@500&family=Roboto:wght@300&family=Titillium+Web&family=Victor+Mono&display=swap');
+
+.NavContainer {
+    top: 30%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 8rem;
+    bottom: 50%;
+    position: absolute;
+    float: left;
+    color: white;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.NavHeadings {
+    color: white;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-left: 1.5rem;
+    font-size: 1.2rem;
+}
+
+.NavHead {
+    font-family: 'Victor Mono', monospace;
+    color: white;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    font-size: 5rem;
+    text-transform: uppercase;
+}
+
+.ContentBody {
+    margin-left: 33rem;
+}
+
+.FirstCircle {
+    margin: 0;
+    position: absolute;
+    top: 45%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    bottom: 30%;
+    background-color: #353839;
+    width: 40rem;
+    height: 33rem;
+    border-radius: 120%;
+    border-top-right-radius: 202% 220%;
+}
+
+.SecondCircle {
+    position: absolute;
+    border-radius: 120%;
+    border-top-right-radius: 200% 218%;
+    height: 23rem;
+    width: 30rem;
+    top: 35%;
+    left: 28%;
+    margin: -160px 0px 0px -150px;
+    padding: 3rem;
+    background-color: black;
+}
+
+.PortfolioImg {
+    margin: -66px -230px -230px -220px;
+    width: 35rem;
+    height: 25rem;
+}
+
+.EndPoint {
+    float: right;
+    margin-top: 18rem;
+    margin-right: 2rem;
+}
+
+.PortfolioName {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 2rem;
+}
+
+.PortfolioJob {
+    text-transform: uppercase;
+    color: orange;
+    margin-top: 2rem;
+    font-size: 3.5rem;
+    margin-bottom: 2rem;
+}
+
+.PortfolioJobSpan {
+    color: white;
+}
+
+.PortfolioCountry {
+    font-family: 'Lato', sans-serif;
+    color: white;
+    font-size: 2.5rem;
+    margin-bottom: 4rem;
+}
+
+.Fb {
+    color: white;
+    margin-right: 1.5rem;
+}
+
+.Insta {
+    color: white;
+    margin-right: 1.5rem;
+}
+
+.Twitter {
+    color: white;
+    margin-right: 1.5rem;
+}
+
+.Linkdin {
+    color: white;
+}
